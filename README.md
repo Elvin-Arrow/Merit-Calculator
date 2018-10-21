@@ -1,1 +1,1 @@
-# Merit-Calculator
+# COMSATS Merit Calculator
